@@ -9,7 +9,7 @@
 <!-- 🔗 Update these links with your own social media and contact information -->
 <p align="center">
   <a href="https://linkedin.com/in/ismail-abdulrazaq-url"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="https://x.com/Holar_brain"><img src="https://img.shields.io/badge/My_Profile-black?style=for-the-badge&logo=X"></a>
+  <a href="https://x.com/Holar_brain"><img src="https://img.shields.io/badge/Follow_Me-black?style=for-the-badge&logo=X"></a>
   <a href="mailto:ismailabdulrazaq1408@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail"></a>
 </p>
 
