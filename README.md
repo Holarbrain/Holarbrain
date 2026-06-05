@@ -23,7 +23,7 @@ When I'm not working with data, I enjoy I enjoy video game, hiking, personal res
       
 ## 🔭 What I'm Currently Working On 
 
-- *📊 CUSTOMER SHOPPING DATA ANALYSIS REPORT* :** This project presents an analysis of customer shopping behavior based on transactional data. The objective is to clean, analyze, and visualize the dataset to uncover meaningful insights that can support business decision-making. The analysis focuses on identifying sales trends, customer preferences, and factors influencing revenue generation.**
+- *📊 CUSTOMER SHOPPING DATA ANALYSIS REPORT*:**This project presents an analysis of customer shopping behavior based on transactional data. The objective is to clean, analyze, and visualize the dataset to uncover meaningful insights that can support business decision-making. The analysis focuses on identifying sales trends, customer preferences, and factors influencing revenue generation.**
 
   
 - **Project B:** [Brief, one-line description of another project, e.g., Creating an interactive marketing dashboard in Power BI.]
