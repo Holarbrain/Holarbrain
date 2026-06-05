@@ -19,11 +19,13 @@ My focus is on building dashboards that get used, automating repetitive tasks to
 When I'm not working with data, I enjoy I enjoy video game, hiking, personal research and mentoring others, etc.. I love the "aha!" moment when data reveals something new and useful.
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
-### [🏆 Check Out My Full Portfolio Website](https://Holarbrain.github.io/)
+### 🏆 Check Out My Full Portfolio Website(https://Holarbrain.github.io/)
       
 ## 🔭 What I'm Currently Working On 
 
-- **Project A:** [Brief, one-line description of a project, e.g., Building a sales forecasting model in Python.]  
+- *📊 CUSTOMER SHOPPING DATA ANALYSIS REPORT* :** This project presents an analysis of customer shopping behavior based on transactional data. The objective is to clean, analyze, and visualize the dataset to uncover meaningful insights that can support business decision-making. The analysis focuses on identifying sales trends, customer preferences, and factors influencing revenue generation.**
+
+  
 - **Project B:** [Brief, one-line description of another project, e.g., Creating an interactive marketing dashboard in Power BI.]
 - **Content Creation:** [e.g., Developing new tutorials on data visualization for my YouTube channel.]
 
