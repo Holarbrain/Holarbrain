@@ -23,15 +23,15 @@ When I'm not working with data, I enjoy I enjoy video game, hiking, personal res
       
 ## 🔭 What I'm Currently Working On 
 
-- *📊 CUSTOMER SHOPPING DATA ANALYSIS REPORT*:**This project presents an analysis of customer shopping behavior based on transactional data. The objective is to clean, analyze, and visualize the dataset to uncover meaningful insights that can support business decision-making. The analysis focuses on identifying sales trends, customer preferences, and factors influencing revenue generation.**
+- *📊 CUSTOMER SHOPPING DATA ANALYSIS REPORT:** This project presents an analysis of customer shopping behavior based on transactional data. The objective is to clean, analyze, and visualize the dataset to uncover meaningful insights that can support business decision-making. The analysis focuses on identifying sales trends, customer preferences, and factors influencing revenue generation.
 
   
 - **Project B:** [Brief, one-line description of another project, e.g., Creating an interactive marketing dashboard in Power BI.]
-- **Content Creation:** [e.g., Developing new tutorials on data visualization for my YouTube channel.]
+- **Content Creation:** Developing Microsoft Excel tutorials on  data cleaning and visualization for my YouTube channel, Facebook and other socials.
 
 ## 🌱 Currently Learning 
 
-- [A new skill or technology you're exploring, e.g., Advanced machine learning techniques in Scikit-learn.]
+- Advanced machine learning techniques in Scikit-learn.
 - Cloud data warehousing with Google BigQuery.
 
 ## 🛠️ Technical Skillset
@@ -58,5 +58,5 @@ When I'm not working with data, I enjoy I enjoy video game, hiking, personal res
   <img src="https://img.shields.io/badge/A%2FB%20Testing-Intermidiate-FF6B6B?style=flat" alt="A/B Testing Skill Badge">
   <img src="https://img.shields.io/badge/Statistical%20Analysis-Experienced-4ECDC4?style=flat" alt="Statistical Analysis Skill Badge">
   <img src="https://img.shields.io/badge/Predictive%20Modeling-Intermediate-45B7D1?style=flat" alt="Predictive Modeling Skill Badge">
-  <img src="https://img.shields.io/badge/KPI%20Development-Expert-96CEB4?style=flat" alt="KPI Development Skill Badge">
+  <img src="https://img.shields.io/badge/KPI%20Development-Experienced-96CEB4?style=flat" alt="KPI Development Skill Badge">
 </p>
